@@ -7,9 +7,14 @@
 
 ## 📁 파일 설명
 
-- `Boston_Regression_Analysis.ipynb`: 전체 분석 코드가 포함된 노트북
-- `heatmap.png`, `histogram.png`, `residuals.png`: 시각화 이미지
-- `README.md`: 프로젝트 요약 및 사용 방법 안내
+### 히트맵
+![heatmap](heatmap.png)
+
+### 변수별 분포
+![histogram](histogram.png)
+
+### 잔차 플롯
+![residuals](residuals.png)
 
 ## 📊 회귀 모델 요약
 
